@@ -1,0 +1,4 @@
+app-global	{972ce4c6-7e08-4474-a285-3208198ce6fd}	rel%{972ce4c6-7e08-4474-a285-3208198ce6fd}	1450860041	
+winreg-app-global	{D19CA586-DD6C-4a0a-96F8-14644F340D60}	abs%C:\Program Files (x86)\Common Files\McAfee\SystemCore	1416402821	
+winreg-app-global	{9F17B1A2-7317-49ef-BCB7-7BB47BDE10F8}	abs%C:\Program Files (x86)\HP\Unified Functional Testing\\bin\Mozilla\Common	1429202633	
+winreg-app-user	{9F17B1A2-7317-49ef-BCB7-7BB47BDE10F8}	abs%C:\Program Files (x86)\HP\Unified Functional Testing\Bin\Mozilla\Common	1429202633	

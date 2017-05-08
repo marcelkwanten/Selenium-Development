@@ -1,0 +1,131 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.11|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 9.0\Reader\browser\nppdf32.dll|$
+9.3.0.148|$
+1261413246000|1|5|$
+Adobe PDF Plug-In For Firefox and Netscape|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.29.1\npGoogleUpdate3.dll|$
+1.3.29.1|$
+1449212241688|1|5|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+npjp2.dll|$
+C:\Program Files (x86)\Java\jre1.8.0_66\bin\plugin2\npjp2.dll|$
+11.66.2.18|$
+1448377327914|1|5|$
+Next Generation Java Plug-in 11.66.2 for Mozilla browsers|$
+Java(TM) Platform SE 8 U66|$
+38
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;version=1.7|||$
+32|application/x-java-bean;version=1.7|||$
+33|application/x-java-applet;version=1.8|||$
+34|application/x-java-bean;version=1.8|||$
+35|application/x-java-applet;jpi-version=1.8.0_66|||$
+36|application/x-java-bean;jpi-version=1.8.0_66|||$
+37|application/x-java-vm-npruntime|||$
+npdeployJava1.dll|$
+C:\Program Files (x86)\Java\jre1.8.0_66\bin\dtplugin\npdeployJava1.dll|$
+11.66.2.18|$
+1448377324239|1|5|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 8.0.660.18|$
+1
+0|application/java-deployment-toolkit|||$
+npitunes.dll|$
+C:\Program Files (x86)\iTunes\Mozilla Plugins\npitunes.dll|$
+1.0.1.1|$
+1420563494000|1|5|$
+iTunes Detector Plug-in|$
+iTunes Application Detector|$
+1
+0|application/itunes-plugin|This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.||$
+np32dsw.dll|$
+C:\WINDOWS\SysWOW64\Adobe\Director\np32dsw.dll|$
+11.5.6.606|$
+1263342524000|1|5|$
+Adobe Shockwave for Director Netscape plug-in, version 11.5|$
+Shockwave for Director|$
+1
+0|application/x-director|Shockwave Movie|dir,dxr,dcr|$
+NPSWF32_17_0_0_188.dll|$
+C:\WINDOWS\SysWOW64\Macromed\Flash\NPSWF32_17_0_0_188.dll|$
+17.0.0.188|$
+1434094218553|1|5|$
+Shockwave Flash 17.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npnul32.dll|$
+C:\Users\bergjob\git\Selenium Test Framework\ProRail\Drivers\firefox\FirefoxPortable\App\firefox\plugins\npnul32.dll|$
+1.0.0.15|$
+1263611392000|1|5|$
+Default Plug-in|$
+Mozilla Default Plug-in|$
+1
+0|*|Mozilla Default Plug-in|*|$
+npLWAPlugin15.8.dll|$
+d:\users\bergjob\AppData\Roaming\Mozilla\plugins\npLWAPlugin15.8.dll|$
+5.0.8308.301|$
+1363187500000|1|5|$
+Microsoft Lync Web App Plug-in|$
+Microsoft Lync Web App Plug-in|$
+1
+0|application/x-lwa-nativeplugin15.8|||$
+npLWAPlugin15.8.dll|$
+d:\users\bergjob\AppData\Roaming\Mozilla\Plugins\npLWAPlugin15.8.dll|$
+5.0.8308.301|$
+1363187500000|1|13|$
+Microsoft Lync Web App Plug-in|$
+Microsoft Lync Web App Plug-in|$
+1
+0|application/x-lwa-nativeplugin15.8|||$
