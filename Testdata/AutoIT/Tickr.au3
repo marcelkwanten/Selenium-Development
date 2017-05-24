@@ -24,12 +24,13 @@ Opt("WinTitleMatchMode", 2)
 ;LABEL GETAL 1
 		$sLabel_Getal 	= GUICtrlCreateLabel("Getal 1: ", 15, 35, 280, 20)
 ;INPUT GETAL 1
-		$iGetal 		= GUICtrlCreateInput("", 15, 50, 50, 22)
+		$iGetal 		= GUICtrlCreateInput(IniRead("config.ini", "Config", "iGetal", ""), 15, 50, 50, 22)
+
 
 ;LABEL GETAL 2
 		$sLabel_Getal2 	= GUICtrlCreateLabel("Getal 2: ", 100, 35, 280, 20)
 ;INPUT GETAL 2
-		$iGetal2 		= GUICtrlCreateInput("", 105, 50, 50, 22)
+		$iGetal2 		= GUICtrlCreateInput(IniRead("config.ini", "Config", "iGetal2", ""), 105, 50, 50, 22)
 
 ;WIJZIG E-MAILADRESSEN BUTTON
 		$RUN_1 			= GUICtrlCreateButton("Wijzig E-mailadressen", 15, 75, 125, 30)
@@ -67,6 +68,8 @@ Opt("WinTitleMatchMode", 2)
 		$MSG = GUIGetMsg()
 		Select
 			Case $MSG = $GUI_EVENT_CLOSE
+					IniWrite("config.ini", "Config", "iGetal", GUICtrlRead($iGetal))
+					IniWrite("config.ini", "Config", "iGetal2", GUICtrlRead($iGetal2))
 			Exit
 
 
